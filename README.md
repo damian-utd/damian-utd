@@ -8,7 +8,8 @@ I recently completed my engineering degree, where I designed and implemented a f
 
 I enjoy building practical applications that solve specific problems and include the full flow of a web system — from the user interface, through backend logic, to database operations.
 
-My current focus is improving my skills as a fullstack developer and expanding my backend knowledge with C# and .NET.
+My current focus is improving my skills as a fullstack developer and expanding my backend knowledge with C# and .NET. At the same time, I am continuing to develop my dietitian application with the goal of deploying it to production and turning it into a real commercial product.
+
 
 ## Tech stack
 
