@@ -49,4 +49,4 @@ https://github.com/damian-utd/dietetyk-system
 ## Contact
 
 * GitHub: @damian-utd
-* LinkedIn: paste-your-link-here
+* LinkedIn: https://www.linkedin.com/in/damian-rata%C5%84czuk-010609333/ 
